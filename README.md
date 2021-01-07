@@ -1,2 +1,1 @@
-# tictactoe
-xox game
+# tictactoe-js
